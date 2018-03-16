@@ -1,0 +1,42 @@
+body{
+	border: 30px solid #bdc3c7;
+	width: 50%;
+	position: center;
+	margin: 0px auto;
+}
+
+div{
+	padding: 20px;
+}
+
+p{
+	font-family: Source Sans Pro;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+h2{
+	font-family: Source Sans Pro;
+	font-weight: 900;
+	font-size: 50px;
+	color: #2c3e50;
+}
+
+hr{
+	width: 98%;
+	height: 1px;
+	background: #bdc3c7;
+}
+
+/*klase*/
+
+.date{
+	font-family: IBM Plex Mono;
+	letter-spacing: 3px;
+	color: #3498db;
+}
+
+.first{
+	border-left: 10px #bdc3c7 solid;
+	padding-left: 10px;
+}
